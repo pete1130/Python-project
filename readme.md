@@ -1,4 +1,4 @@
-#Pool Table Management App
+##Pool Table Management App
 
 **Purpose of the app:**
 This app is designed to allow the tracking of 12 pool tables and provide stats for the respective table. 
@@ -13,6 +13,5 @@ A table will have the following stats:
 
 Up exit of the app, a JSON file will provide a report of all the status for every table.
 
-
-## App snapshot: 
-![](snapshot_4.gif)
+**App snapshot: 
+![](snapshot_6.gif)
