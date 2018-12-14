@@ -14,4 +14,4 @@ A table will have the following stats:
 Up exit of the app, a JSON file will provide a report of all the status for every table.
 
 **App snapshot: 
-![](snapshot_6.gif)
+![](screenshot_6.gif)
